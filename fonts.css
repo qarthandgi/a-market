@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('/fonts/CormorantGaramond-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proza Libre';
+    src: url('/fonts/ProzaLibre-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proza Libre';
+    src: url('/fonts/ProzaLibre-SemiBold.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
